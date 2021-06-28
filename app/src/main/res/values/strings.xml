@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SubmissionDicodingAndroid</string>
+    <string name="smartphone_name">Samsung Galaxy Note 20 Ultra</string>
+    <string name="spec_detail">Specifications :</string>
+    <string name="price">Rp. 15.000.000</string>
+    <string name="title_spec">Network \nReleased \nDisplay \nChipset \nMemory \nBattery</string>
+    <string name="buy">Buy</string>
+    <string name="spec">Spec</string>
+    <string name="dummy_photos">1/10</string>
+    <string name="content_spec">GSM/HSPA/LTE/5G\n2020, November 13\nSuper Retina OLED 6,7 inches\nApple A14\n128GB/6GB RAM\nLi-Ion 3687 mAh</string>
+    <string name="share_ke_wa">Share Ke Wa</string>
+    <string name="my_name">Dwi Sulistyono</string>
+    <string name="my_email">johnblelenk16@gmail.com</string>
+</resources>
